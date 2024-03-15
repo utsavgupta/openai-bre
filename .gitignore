@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 LMS-vb-6.0/
+chunks/
 
 # C extensions
 *.so
