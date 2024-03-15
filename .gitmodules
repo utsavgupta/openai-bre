@@ -1,0 +1,3 @@
+[submodule "LMS-vb-6.0"]
+	path = LMS-vb-6.0
+	url = git@github.com:utsavgupta/LMS-vb-6.0.git
