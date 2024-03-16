@@ -6,7 +6,7 @@ import yaml
 function_start_re = re.compile("^(Public|Private)\s(Sub|Function)\s(.+?)\(")
 control_re = re.compile("^Begin\s(.+)\s(.+)$")
 end_sub = "End Sub"
-end_function = "End Sub"
+end_function = "End Function"
 output_dir = r"..\chunks"
 
 class ProcessOutput:
