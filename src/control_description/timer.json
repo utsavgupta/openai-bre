@@ -1,0 +1,8 @@
+{
+    "events": [
+      {
+        "name": "Timer",
+        "description": "Occurs at regular intervals as specified by the Interval property."
+      }
+    ]
+  }

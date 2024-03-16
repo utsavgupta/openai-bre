@@ -1,0 +1,58 @@
+{
+    "type": "VB.Form",
+    "events": [
+      {
+        "name": "Activate",
+        "description": "When the form becomes the active window."
+      },
+      {
+        "name": "Click",
+        "description": "When the user clicks the form."
+      },
+      {
+        "name": "DblClick",
+        "description": "When the user double-clicks the form."
+      },
+      {
+        "name": "Deactivate",
+        "description": "When the form loses the focus and is no longer the active window."
+      },
+      {
+        "name": "KeyDown",
+        "description": "When a key is pressed while the form has the focus."
+      },
+      {
+        "name": "KeyPress",
+        "description": "When a key is pressed and released while the form has the focus."
+      },
+      {
+        "name": "KeyUp",
+        "description": "When a key is released while the form has the focus."
+      },
+      {
+        "name": "Load",
+        "description": "When the form is loaded into memory."
+      },
+      {
+        "name": "MouseDown",
+        "description": "When the user presses a mouse button while the pointer is over the form."
+      },
+      {
+        "name": "MouseMove",
+        "description": "When the user moves the mouse pointer over the form."
+      },
+      {
+        "name": "MouseUp",
+        "description": "When the user releases a mouse button that was pressed while the pointer was over the form."
+      },
+      {
+        "name": "Resize",
+        "description": "When the size of the form changes."
+      },
+      {
+        "name": "Unload",
+        "description": "When the form is unloaded from memory."
+      }
+    ]
+  }
+  

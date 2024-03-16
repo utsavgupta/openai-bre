@@ -1,0 +1,50 @@
+{
+    "type": "VB.CommandButton",
+    "events": [
+      {
+        "name": "Click",
+        "description": "When the user clicks the CommandButton control."
+      },
+      {
+        "name": "DblClick",
+        "description": "When the user double-clicks the CommandButton control."
+      },
+      {
+        "name": "GotFocus",
+        "description": "When the CommandButton control receives the focus."
+      },
+      {
+        "name": "LostFocus",
+        "description": "When the CommandButton control loses the focus."
+      },
+      {
+        "name": "MouseDown",
+        "description": "When the user presses a mouse button while the pointer is over the CommandButton control."
+      },
+      {
+        "name": "MouseMove",
+        "description": "When the user moves the mouse pointer over the CommandButton control."
+      },
+      {
+        "name": "MouseUp",
+        "description": "When the user releases a mouse button that was pressed while the pointer was over the CommandButton control."
+      },
+      {
+        "name": "KeyDown",
+        "description": "When a key is pressed while the CommandButton control has the focus."
+      },
+      {
+        "name": "KeyPress",
+        "description": "When a key is pressed and released while the CommandButton control has the focus."
+      },
+      {
+        "name": "KeyUp",
+        "description": "When a key is released while the CommandButton control has the focus."
+      },
+      {
+        "name": "Resize",
+        "description": "When the size of the CommandButton control changes."
+      }
+    ]
+  }
+  

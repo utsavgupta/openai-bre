@@ -1,0 +1,30 @@
+{
+    "type": "VB.Label",
+    "events": [
+      {
+        "name": "Click",
+        "description": "When the user clicks the Label control."
+      },
+      {
+        "name": "DblClick",
+        "description": "When the user double-clicks the Label control."
+      },
+      {
+        "name": "MouseDown",
+        "description": "When the user presses a mouse button while the pointer is over the Label control."
+      },
+      {
+        "name": "MouseMove",
+        "description": "When the user moves the mouse pointer over the Label control."
+      },
+      {
+        "name": "MouseUp",
+        "description": "When the user releases a mouse button that was pressed while the pointer was over the Label control."
+      },
+      {
+        "name": "Resize",
+        "description": "When the size of the Label control changes."
+      }
+    ]
+  }
+  
