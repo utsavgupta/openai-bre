@@ -1,8 +1,9 @@
 {
     "events": [
-      {
-        "name": "Timer",
-        "description": "Occurs at regular intervals as specified by the Interval property."
-      }
-    ]
+        {
+          "name": "Timer",
+          "human_readable_name": "Timer",
+          "description": "When the timer interval elapses, occurring at regular intervals as specified by the Interval property."
+        }
+      ]
   }
