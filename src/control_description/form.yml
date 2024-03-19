@@ -1,0 +1,43 @@
+events:
+- description: When the form becomes the active window.
+  human_readable_name: Activate
+  name: Activate
+- description: When the user clicks the form.
+  human_readable_name: Click
+  name: Click
+- description: When the user double-clicks the form.
+  human_readable_name: Double Click
+  name: DblClick
+- description: When the form loses the focus and is no longer the active window.
+  human_readable_name: Deactivate
+  name: Deactivate
+- description: When a key is pressed while the form has the focus.
+  human_readable_name: Key Down
+  name: KeyDown
+- description: When a key is pressed and released while the form has the focus.
+  human_readable_name: Key Press
+  name: KeyPress
+- description: When a key is released while the form has the focus.
+  human_readable_name: Key Up
+  name: KeyUp
+- description: When the form is loaded into memory.
+  human_readable_name: Load
+  name: Load
+- description: When the user presses a mouse button while the pointer is over the
+    form.
+  human_readable_name: Mouse Down
+  name: MouseDown
+- description: When the user moves the mouse pointer over the form.
+  human_readable_name: Mouse Move
+  name: MouseMove
+- description: When the user releases a mouse button that was pressed while the pointer
+    was over the form.
+  human_readable_name: Mouse Up
+  name: MouseUp
+- description: When the size of the form changes.
+  human_readable_name: Resize
+  name: Resize
+- description: When the form is unloaded from memory.
+  human_readable_name: Unload
+  name: Unload
+type: VB.Form

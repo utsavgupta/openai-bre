@@ -1,0 +1,45 @@
+events:
+- description: When the contents of the TextBox control are changed either through
+    user interaction or programmatically.
+  human_readable_name: Change
+  name: Change
+- description: When the user clicks the TextBox control.
+  human_readable_name: Click
+  name: Click
+- description: When the user double-clicks the TextBox control.
+  human_readable_name: Double Click
+  name: DblClick
+- description: When the TextBox control receives the focus.
+  human_readable_name: Got Focus
+  name: GotFocus
+- description: When a key is pressed while the TextBox control has the focus.
+  human_readable_name: Key Down
+  name: KeyDown
+- description: When a key is pressed and released while the TextBox control has the
+    focus.
+  human_readable_name: Key Press
+  name: KeyPress
+- description: When a key is released while the TextBox control has the focus.
+  human_readable_name: Key Up
+  name: KeyUp
+- description: When the TextBox control loses the focus.
+  human_readable_name: Lost Focus
+  name: LostFocus
+- description: When the user presses a mouse button while the pointer is over the
+    TextBox control.
+  human_readable_name: Mouse Down
+  name: MouseDown
+- description: When the user moves the mouse pointer over the TextBox control.
+  human_readable_name: Mouse Move
+  name: MouseMove
+- description: When the user releases a mouse button that was pressed while the pointer
+    was over the TextBox control.
+  human_readable_name: Mouse Up
+  name: MouseUp
+- description: When the size of the TextBox control changes.
+  human_readable_name: Resize
+  name: Resize
+- description: When the user scrolls the contents of the TextBox control.
+  human_readable_name: Scroll
+  name: Scroll
+type: VB.TextBox

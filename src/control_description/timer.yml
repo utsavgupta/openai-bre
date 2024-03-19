@@ -1,0 +1,5 @@
+events:
+- description: When the timer interval elapses, occurring at regular intervals as
+    specified by the Interval property.
+  human_readable_name: Timer
+  name: Timer
