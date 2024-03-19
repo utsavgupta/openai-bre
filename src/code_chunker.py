@@ -135,9 +135,9 @@ def process_locs(lines: list[str]) -> dict:
 def get_end_statement(proc_type: str) -> str:
 
     if proc_type == "Function":
-        return "End Function"
-    else:
-        return "End Sub"
+        return end_function
+    
+    return end_sub
 
 def create_directory_if_not_exist(dir: str):
 
